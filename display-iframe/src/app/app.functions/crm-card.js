@@ -14,8 +14,8 @@ exports.main = async (context, sendResponse) => {
           width: 1000,
           height: 800,
           uri: 'https://product.hubspot.com/blog',
-        },
-      },
-    ],
+        }
+      }
+    ]
   });
 };
